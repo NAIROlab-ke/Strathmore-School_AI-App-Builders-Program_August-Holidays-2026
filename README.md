@@ -39,7 +39,7 @@
 ## 🗓️ Day 3: RAG Pipelines (Connecting AI to Knowledge)
 
 ### A) Tasks
-- Understand and construct RAG pipelines for documents and images using _Dify_ workflows
+- Understand and construct multimodal RAG pipelines for documents and images using _Dify_ workflows
 	
 	<img src="doc-img-rag.png">
 

@@ -1,8 +1,8 @@
 # Welcome to the AI App Builders Program!
 
-## Day 1: AI Application Foundations (Using AI)
+## 🗓️ Day 1: AI Application Foundations (Using AI)
 
-### Tasks
+### A) Tasks
 
 - Explore the following basic DIY AI Application Workflow
 
@@ -14,63 +14,63 @@
   * Ollama
   * LLMs (Qwen, Gemma, Phi, LLama)
 
-### Activities
+### B) Activities
 
   * Chat
   * _Visual Question Answering (VQA)_
   * Document _Retrieval Augmented-Generation (RAG)_
   * Model switching for performance comparison and multimodality
 
-### Outcome
+### C) Outcome
 
 - _"I understand the components and structure of an AI application."_
 	
-## Day 2: Building a Custom AI App (Connecting AI to Software)
+## 🗓️ Day 2: Building a Custom AI App (Connecting AI to Software)
 
-### Task
+### A) Task
 
-- Combine AI stack with Streamlit frontend**
+- Combine your AI backend (_Ollama_ + _LLM_) with a _Streamlit-based_ frontend for a richer UI
 	
   <img src="connect-ai-to-software.png">
 
-### Activities
+### B) Activities
 	
 * Text-to-SQL
 * Data analysis and Visualization of AI output (Charts, Graphs)
 	
-### Outcome
+### C) Outcome
 
-- _"I can build my own interface."_
+- _"I can build a custom frontend to extend app usability"_
 
-## Day 3: RAG Pipelines (Connecting AI to Knowledge)
+## 🗓️ Day 3: RAG Pipelines (Connecting AI to Knowledge)
 
-### Tasks
-- Understand and construct RAG pipelines for documents and images using Dify workflows
-  
-- **Document RAG**
+### A) Tasks
+- Understand and construct RAG pipelines for documents and images using _Dify_ workflows
+	  
+	- **Document RAG**
+	
+	  <img src="document-rag.png">
+	
+	- **Image RAG**
+	
+	  <img src="image-rag.png">
 
-  <img src="document-rag.png">
-
-- **Image RAG**
-
-  <img src="image-rag.png">
-
-### Activities
+### B) Activities
 - Summarize PDFs, Markdown, etc docs
 - Perform semantic search and querying on private image collection
   
-### Outcome
-- _"I understand how AI remembers and retrieves information."_
+### C) Outcome
+- _"I can build multimodal AI apps that can retrieve and analyze **privately** stored information."_
 
-## Day 4: Tool Calling and AI Agents (Connecting AI to Systems)
+## 🗓️ Day 4: Tool Calling and AI Agents (Connecting AI to Systems)
 
-### Task
+### A) Task
 
 - Implement Dify workflows for tool use and simple AI agents
   
   <img src="tool-calling.png">
 
-### Activities
+### B) Activities
 - Implement tools
   * Calculator tool
   * Weather tool
@@ -89,8 +89,8 @@
   Answer
   ```
 
-### Outcome
-- _"I understand how AI takes actions."_
+### C) Outcome
+- _"I can automate how AI takes actions."_
 
 <!--
 Notice this is not yet CrewAI territory.
@@ -105,7 +105,7 @@ Critic Agent
 ```
 -->
 
-## Day 5: Capstone Projects
+## 🗓️ Day 5: Capstone Projects
 
 ### Activity Planner
 

@@ -40,14 +40,8 @@
 
 ### A) Tasks
 - Understand and construct RAG pipelines for documents and images using _Dify_ workflows
-	  
-	- **Document RAG**
 	
-	  <img src="document-rag.png">
-	
-	- **Image RAG**
-	
-	  <img src="image-rag.png">
+	<img src="doc-img-rag.png">
 
 ### B) Activities
 - Summarize PDFs, Markdown, etc docs

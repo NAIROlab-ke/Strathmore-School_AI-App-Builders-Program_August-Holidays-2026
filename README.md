@@ -4,15 +4,9 @@
 
 ### A) Tasks
 
-- Explore the following basic DIY AI Application Workflow
+- Setup and explore the following basic AI Application Workflow
 
   <img src="basic-ai-app-workflow.png">
-
-  using the following AI Stack:
-
-  * Open WebUI
-  * Ollama
-  * LLMs (Qwen, Gemma, Phi, LLama)
 
 ### B) Activities
 
@@ -23,7 +17,7 @@
 
 ### C) Outcome
 
-- _"I understand the components and structure of an AI application."_
+- _"I understand the essential components and structure of a DIY AI application."_
 	
 ## 🗓️ Day 2: Building a Custom AI App (Connecting AI to Software)
 

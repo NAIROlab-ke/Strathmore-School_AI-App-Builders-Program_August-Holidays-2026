@@ -1,4 +1,4 @@
-# Welcome to the AI App Builders Program!
+# Welcome to the "AI App Builders" Program!
 
 ## About This Course
 

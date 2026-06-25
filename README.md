@@ -39,7 +39,7 @@
 ## 🗓️ Day 3: RAG Pipelines (Connecting AI to Knowledge)
 
 ### A) Tasks
-- Understand and construct multimodal RAG pipelines for documents and images using _Dify_ workflows
+- Understand and construct RAG pipelines for documents and images using _Dify_ workflows
 	
 	<img src="doc-img-rag.png">
 
@@ -48,7 +48,7 @@
 - Perform semantic search and querying on private image collection
   
 ### C) Outcome
-- _"I can build multimodal AI apps that can retrieve and analyze **privately** stored information."_
+- _"I can build AI apps that can retrieve and analyze **privately** stored information."_
 
 ## 🗓️ Day 4: Tool Calling and AI Agents (Connecting AI to Systems)
 

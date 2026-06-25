@@ -25,7 +25,7 @@
 
 ### A) Tasks
 
-- Setup and explore the following basic AI Application Workflow
+- We setup and explore the following basic AI Application Workflow
 
   <img src="basic-ai-app-workflow.png">
 
@@ -44,7 +44,7 @@
 
 ### A) Task
 
-- Combine your AI backend (_Ollama_ + _LLM_) with a _Streamlit-based_ frontend for a richer UI
+- We combine our AI backend (_Ollama_ + _LLM_) with a _Streamlit-based_ frontend for a diversified UI
 	
   <img src="connect-ai-to-software.png">
 
@@ -60,7 +60,7 @@
 ## 🗓️ Day 3: RAG Pipelines (Connecting AI to Knowledge)
 
 ### A) Tasks
-- Understand and construct RAG pipelines for documents and images using _Dify_ workflows
+- We explore and construct RAG pipelines for documents and images using _Dify_ workflows
 	
 	<img src="doc-img-rag.png">
 
@@ -75,7 +75,7 @@
 
 ### A) Task
 
-- Implement Dify workflows for tool use and simple AI agents
+- We implement *Dify* workflows for tool use and simple AI agents
   
   <img src="tool-calling.png">
 
@@ -116,7 +116,7 @@ Critic Agent
 
 ## 🗓️ Day 5: Capstone Projects
 
-### Activity Planner
+### A) Activity Planner
 
 - Assumptions
   - Weather Forecast for the month
@@ -125,7 +125,7 @@ Critic Agent
   - Maintanance schedules (e.g. swimming pool, fields, gym)
 - Based on total activity time required (for the month), and the factors above, the agent should be able to provide schedule for the activity and even suggest alternatives
   
-### AI-Powered Photo Ablum Manager
+### B) AI-Powered Photo Ablum Manager
 - Auto update of knowledge base upon add/remove of images
 - Visual and image description search modes
 - structured retriveal modes e.g. based on dates/period, size, type (jpg, png), etc

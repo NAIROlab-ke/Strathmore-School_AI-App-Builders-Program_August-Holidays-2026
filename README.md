@@ -1,6 +1,6 @@
 # Welcome to the AI App Builders Program!
 
-## 🗓️ Day 1: AI Application Foundations (Using AI)
+## 🗓️ Day 1: AI Application Foundations
 
 ### A) Tasks
 

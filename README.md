@@ -14,7 +14,7 @@
   
 - **Open-Source, Open-Weights, and DIY Setups**
   
-  AI components and stacks that are publicly available for download and self-hosting:
+  We emphasis AI components and stacks that are publicly available for download and self-hosting:
   
   - No API billing
   - No Credit cards

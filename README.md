@@ -1,5 +1,26 @@
 # Welcome to the AI App Builders Program!
 
+## About This Course
+
+**This program subscribes to:**
+
+- **Low-code setups**
+  
+  Given the limited time window, and the diverse technical background of the audience, we keep writing Python code to a minimum.
+  
+- **Modern AI Paradigms**
+  
+  Our case studies are guided by practical AI paradigms such as _Retrieval Augmented-Generation (RAG)_, Multimodality, Tool Calling, AI agents, and Text-to-SQL
+  
+- **Open-Source, Open-Weights, and DIY Setups**
+  
+  Components and stacks that are publicly available for download and self-hosting:
+  
+  - No API billing
+  - No Credit cards
+  - No Rate limits
+  - No Vendor lock-in
+
 ## 🗓️ Day 1: AI Application Foundations
 
 ### A) Tasks

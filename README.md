@@ -6,7 +6,7 @@
 
 - **Low-code setups**
   
-  Given the limited time window, and the diverse technical background of the audience, we keep writing Python code to a minimum. Nevertheless, our case studies are structured such that they can be easily extended by those with more advanced Python skills.
+  Given the limited time window, and the diverse technical background of the audience, we restrict coding in Python to a minimum. Nevertheless, our case studies are structured such that they can be easily extended by those with more advanced Python skills.
   
 - **Modern AI Paradigms**
   

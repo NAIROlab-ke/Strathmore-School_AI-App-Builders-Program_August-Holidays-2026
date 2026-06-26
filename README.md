@@ -16,6 +16,7 @@
   
   We emphasize AI components and stacks that are publicly available for download and self-hosting:
   
+  - Data Privacy first
   - No API billing
   - No Credit cards
   - No Rate limits

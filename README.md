@@ -1,5 +1,5 @@
 
-<img width="1142" height="400" alt="nairolab-image" src="https://github.com/user-attachments/assets/b598b6b3-91b3-44ad-b641-b952d29b0e69" />
+<img width="1136" height="574" alt="nairolab-github-banner-cropped" src="https://github.com/user-attachments/assets/1f1deda0-ba09-4b3d-9c73-3e3a09ba455e" />
 
 
 # Welcome to the "AI App Builders" Program!

@@ -1,3 +1,7 @@
+
+<img width="1142" height="400" alt="nairolab-image" src="https://github.com/user-attachments/assets/b598b6b3-91b3-44ad-b641-b952d29b0e69" />
+
+
 # Welcome to the "AI App Builders" Program!
 
 ## About This Course

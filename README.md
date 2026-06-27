@@ -61,7 +61,7 @@
 ## 🗓️ Day 3: RAG Pipelines (Connecting AI to Knowledge)
 
 ### A) Tasks
-- We explore and construct RAG pipelines for documents and images using _Dify_ workflows
+- We explore and construct RAG pipelines for documents and images
 	
 	<img src="doc-img-rag.png">
 
@@ -76,7 +76,7 @@
 
 ### A) Task
 
-- We implement *Dify* workflows for tool use and simple AI agents
+- We implement Open webUI workflows for tool use and simple AI agents
   
   <img src="tool-calling.png">
 

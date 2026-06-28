@@ -82,7 +82,7 @@
 
 - We employ [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) for a fully edge AI solution capable of tool use, function calling, and MCP
   
-  <img src="ai-agents.png">
+  <img src="qwen3-qwen-agent.png">
 
 ### B) Activities
 - Implement tools

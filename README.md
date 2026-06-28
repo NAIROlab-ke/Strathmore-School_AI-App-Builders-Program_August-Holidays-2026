@@ -41,7 +41,11 @@
   * Document _Retrieval Augmented-Generation (RAG)_
   * Model switching for performance comparison and multimodality
 
-### C) Outcome
+### C) Google Colab Notebook
+
+- [**Aug2026 -- Day 1 -- AI Application Foundations.ipynb**](https://colab.research.google.com/drive/112DSm11HmI3j-Ousy5XHJ-vXQUvWiOah)
+  
+### D) Outcome
 
 - _"I understand the essential components and structure of a DIY AI application."_
 	
@@ -57,8 +61,12 @@
 	
 * Text-to-SQL
 * Data analysis and Visualization of AI output (Charts, Graphs)
-	
-### C) Outcome
+
+### C) Google Colab Notebook
+
+- [**Aug2026 -- Day 2 -- Building a Custom AI App.ipynb**](https://colab.research.google.com/drive/1282oV3I0y7MJoC5g0uhpVZuHcbFNeIbV)
+
+### D) Outcome
 
 - _"I can build a custom frontend to extend app usability"_
 
@@ -72,8 +80,12 @@
 ### B) Activities
 - Summarize PDFs, Markdown, etc docs
 - Perform cross-modal semantic search and querying on private image collection
+
+### C) Google Colab Notebook
+
+- [**Aug2026 -- Day 3 -- RAG Pipelines.ipynb**](https://colab.research.google.com/drive/1lovtOi-YHYqpTAolaFedJIygIGlErUfa)
   
-### C) Outcome
+### D) Outcome
 - _"I can build AI apps that can retrieve and analyze **privately** stored information."_
 
 ## 🗓️ Day 4: AI Agents (Connecting AI to Systems)
@@ -91,7 +103,12 @@
   * Database tool
   * Web search tool
 
-### C) Outcome
+### C) Google Colab Notebook
+
+- [**Aug2026 -- Day 4 -- AI Agents.ipynb**](https://colab.research.google.com/drive/112DSm11HmI3j-Ousy5XHJ-vXQUvWiOah)
+  
+  
+### D) Outcome
 - _"I can automate how AI takes actions."_
 
 <!--

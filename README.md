@@ -71,7 +71,7 @@
 
 ### B) Activities
 - Summarize PDFs, Markdown, etc docs
-- Perform semantic search and querying on private image collection
+- Perform cross-modal semantic search and querying on private image collection
   
 ### C) Outcome
 - _"I can build AI apps that can retrieve and analyze **privately** stored information."_

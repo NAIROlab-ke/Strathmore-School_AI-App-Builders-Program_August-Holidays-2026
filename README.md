@@ -14,7 +14,7 @@
   
 - **Modern AI Paradigms**
   
-  Our case studies are guided by practical AI paradigms such as _Retrieval Augmented-Generation (RAG)_, Multimodality, Tool Calling, AI agents, and Text-to-SQL
+  Our case studies are guided by practical AI paradigms such as _Retrieval Augmented-Generation (RAG)_, Multimodality, Tool Calling, AI agents, _Model Context Protocol (MCP)_, and Text-to-SQL
   
 - **Open-Source, Open-Weights, and DIY Setups**
   

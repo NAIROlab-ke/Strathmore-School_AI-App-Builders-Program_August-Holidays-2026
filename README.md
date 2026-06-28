@@ -113,7 +113,7 @@ Critic Agent
 
 - Given a list of sports activities (by a student), the AI agent should be able to recommend a schedule for the month based on time of day, weather forecast, facility maintanance schedules, School calender, National calender, etc
     
-### B) Fully-Edge Photo Ablum Assistant
+### B) Fully-Edge Photo Album Assistant
 
 - A **privacy first** and **offline** AI assistant capable of indexing a user's private collection of photos and retrieving them according to cross-modal queries (i.e. text prompts or image semantic searches)
 

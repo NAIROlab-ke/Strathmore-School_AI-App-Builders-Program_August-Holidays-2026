@@ -128,7 +128,7 @@ Critic Agent
 
 ### A) School Sports Activity Planner
 
-- Given a list of sports activities (by a student), the AI agent should be able to recommend a schedule for the month based on time of day, weather forecast, facility maintanance schedules, School calender, National calender, etc
+- Given a list of sports activities (by a student), the AI agent should be able to recommend a schedule for the week/month based on time of day, weather forecast, facility maintanance schedules, School calender, National calender, etc
     
 ### B) Fully-Edge Photo Album Assistant
 

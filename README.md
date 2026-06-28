@@ -51,7 +51,7 @@
 
 - We combine our AI backend (_Ollama_ + _LLM_) with a _Streamlit-based_ frontend for a diversified UI
 	
-  <img src="connect-ai-to-software.png">
+  <img src="streamlit-text2sql.png">
 
 ### B) Activities
 	

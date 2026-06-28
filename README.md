@@ -76,13 +76,13 @@
 ### C) Outcome
 - _"I can build AI apps that can retrieve and analyze **privately** stored information."_
 
-## 🗓️ Day 4: Tool Calling and AI Agents (Connecting AI to Systems)
+## 🗓️ Day 4: AI Agents (Connecting AI to Systems)
 
 ### A) Task
 
-- We implement Open webUI workflows for tool use and simple AI agents
+- We employ [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) for a fully edge AI solution capable of tool use, function calling, and MCP
   
-  <img src="tool-calling.png">
+  <img src="ai-agents.png">
 
 ### B) Activities
 - Implement tools
@@ -90,18 +90,6 @@
   * Weather tool
   * Database tool
   * Web search tool
-
-- Tool calling and agent loops
-
-  ```text
-  Question
-    ↓
-  Agent
-    ↓
-  Choose Tool
-    ↓
-  Answer
-  ```
 
 ### C) Outcome
 - _"I can automate how AI takes actions."_

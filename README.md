@@ -109,18 +109,11 @@ Critic Agent
 
 ## 🗓️ Day 5: Capstone Projects
 
-### A) Activity Planner
+### A) School Sports Activity Planner
 
-- Assumptions
-  - Weather Forecast for the month
-  - School academic and sports calender with major events
-  - Open/Close times for fields, swimming pool, gym
-  - Maintanance schedules (e.g. swimming pool, fields, gym)
-- Based on total activity time required (for the month), and the factors above, the agent should be able to provide schedule for the activity and even suggest alternatives
-  
-### B) AI-Powered Photo Ablum Manager
-- Auto update of knowledge base upon add/remove of images
-- Visual and image description search modes
-- structured retriveal modes e.g. based on dates/period, size, type (jpg, png), etc
-- Cool UI
+- Given a list of sports activities (by a student), the AI agent should be able to recommend a schedule for the month based on time of day, weather forecast, facility maintanance schedules, School calender, National calender, etc
+    
+### B) Fully-Edge Photo Ablum Assistant
+
+- A **privacy first** and **offline** AI assistant capable of indexing a user's private collection of photos and retrieving them according to cross-modal queries (i.e. text prompts or image semantic searches)
 

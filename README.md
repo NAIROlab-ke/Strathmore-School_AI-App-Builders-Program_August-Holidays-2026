@@ -6,7 +6,7 @@
 
 ## About This Course
 
-August 2026 Holiday Program for Strathmore School students. A course on building **self-hosted** and **edge** AI apps for typical AI paradigms (e.g. Multimodal, RAG, tool use, AI agents, Text-to-SQL) using opensource AI components and stacks.
+August 2026 Holiday Program for Strathmore School students. A course on building **self-hosted** and **edge** AI apps for typical AI paradigms (e.g. Multimodal, RAG, AI agents) using opensource AI components and stacks.
 
 **This program subscribes to:**
 
@@ -16,7 +16,7 @@ August 2026 Holiday Program for Strathmore School students. A course on building
   
 - **Modern AI Paradigms**
   
-  Our case studies are guided by practical AI paradigms such as _Retrieval Augmented-Generation (RAG)_, Multimodality, Tool Calling, AI agents, _Model Context Protocol (MCP)_, and Text-to-SQL
+  Our case studies are guided by practical AI paradigms such as _Retrieval Augmented-Generation (RAG)_, Multimodality, Tool use, Function calling, AI agents, _Model Context Protocol (MCP)_, and Text-to-SQL
   
 - **Open-Source, Open-Weights, and DIY Setups**
   
@@ -25,8 +25,7 @@ August 2026 Holiday Program for Strathmore School students. A course on building
   - Data Privacy first
   - No API billing
   - No Credit cards
-  - No Rate limits
-  - No Vendor lock-in
+  - No Rate limits  
 
 ## 🗓️ Day 1: AI Application Foundations
 

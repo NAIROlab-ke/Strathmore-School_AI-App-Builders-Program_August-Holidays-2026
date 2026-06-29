@@ -79,8 +79,8 @@ August 2026 Holiday Program for Strathmore School students. A course on building
 	<img src="doc-img-rag.png">
 
 ### B) Activities
-- Summarize documents (PDFs, Markdown, etc)
-- Perform offline, cross-modal semantic search on a private collection of images
+- Summarize documents (PDFs, Markdown, etc) with an offline engine
+- Offline cross-modal semantic search on a private collection of images
 
 ### C) Google Colab Notebook
 

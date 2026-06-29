@@ -61,7 +61,7 @@ August 2026 Holiday Program for Strathmore School students. A course on building
 ### B) Activities
 	
 * Text-to-SQL
-* Data analysis and Visualization of AI output (Charts, Graphs)
+* Data analysis and Visualization of SQL query results (Charts, Graphs)
 
 ### C) Google Colab Notebook
 

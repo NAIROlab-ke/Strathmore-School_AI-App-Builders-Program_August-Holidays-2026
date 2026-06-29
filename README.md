@@ -98,7 +98,7 @@ August 2026 Holiday Program for Strathmore School students. A course on building
   <img src="qwen3-qwen-agent.png">
 
 ### B) Activities
-- Implement tools
+- Connect/Implement tools
   * Calculator tool
   * Weather tool
   * Web search tool

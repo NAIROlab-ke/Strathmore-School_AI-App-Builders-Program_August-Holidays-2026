@@ -69,7 +69,7 @@ August 2026 Holiday Program for Strathmore School students. A course on building
 
 ### D) Outcome
 
-- _"I can build a custom frontend to extend app usability"_
+- _"I can build a custom frontend to extend AI app usability"_
 
 ## 🗓️ Day 3: RAG Pipelines (Connecting AI to Knowledge)
 
@@ -101,8 +101,8 @@ August 2026 Holiday Program for Strathmore School students. A course on building
 - Implement tools
   * Calculator tool
   * Weather tool
-  * Database tool
   * Web search tool
+  * Home automation tool
 
 ### C) Google Colab Notebook
 

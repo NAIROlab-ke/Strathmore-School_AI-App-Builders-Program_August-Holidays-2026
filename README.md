@@ -6,7 +6,7 @@
 
 ## About This Course
 
-August 2026 Holiday Program for Strathmore School students. A course on building **self-hosted** and **edge** AI apps for typical AI paradigms (e.g. Multimodal, RAG, AI agents) using opensource AI components and stacks.
+August 2026 Holiday Program for [Strathmore School](https://www.strathmore.ac.ke/) students. A course on building **self-hosted** and **edge** AI apps for typical AI paradigms (e.g. Multimodal, RAG, AI agents) using opensource AI components and stacks.
 
 **This program subscribes to:**
 

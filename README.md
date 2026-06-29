@@ -110,7 +110,7 @@ August 2026 Holiday Program for Strathmore School students. A course on building
   
   
 ### D) Outcome
-- _"I can automate how AI takes actions."_
+- _"I can automate how AI takes actions and interacts with external systems."_
 
 <!--
 Notice this is not yet CrewAI territory.

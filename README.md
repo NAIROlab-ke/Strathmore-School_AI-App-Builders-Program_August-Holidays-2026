@@ -42,9 +42,9 @@ August 2026 Holiday Program for [Strathmore School](https://www.strathmore.ac.ke
   * Document _Retrieval Augmented-Generation (RAG)_
   * Model switching for performance comparison and multimodality
 
-### C) Google Colab Notebook
+### C) Classroom / Lab 
 
-- [**Aug2026 -- Day 1 -- AI Application Foundations.ipynb**](https://colab.research.google.com/drive/112DSm11HmI3j-Ousy5XHJ-vXQUvWiOah)
+- [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/112DSm11HmI3j-Ousy5XHJ-vXQUvWiOah)
   
 ### D) Outcome
 
@@ -63,9 +63,9 @@ August 2026 Holiday Program for [Strathmore School](https://www.strathmore.ac.ke
 * Text-to-SQL
 * Data analysis and Visualization of SQL query results (Charts, Graphs)
 
-### C) Google Colab Notebook
+### C) Classroom / Lab
 
-- [**Aug2026 -- Day 2 -- Building a Custom AI App.ipynb**](https://colab.research.google.com/drive/1282oV3I0y7MJoC5g0uhpVZuHcbFNeIbV)
+- [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1282oV3I0y7MJoC5g0uhpVZuHcbFNeIbV)
 
 ### D) Outcome
 
@@ -82,9 +82,9 @@ August 2026 Holiday Program for [Strathmore School](https://www.strathmore.ac.ke
 - Summarize documents (PDFs, Markdown, etc) with an offline engine
 - Offline cross-modal semantic search on a private collection of images
 
-### C) Google Colab Notebook
+### C) Classroom / Lab
 
-- [**Aug2026 -- Day 3 -- RAG Pipelines.ipynb**](https://colab.research.google.com/drive/1lovtOi-YHYqpTAolaFedJIygIGlErUfa)
+- [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lovtOi-YHYqpTAolaFedJIygIGlErUfa)
   
 ### D) Outcome
 - _"I can build AI apps that can retrieve and analyze **privately** stored information."_
@@ -104,9 +104,9 @@ August 2026 Holiday Program for [Strathmore School](https://www.strathmore.ac.ke
   * Web search tool
   * Home automation tool
 
-### C) Google Colab Notebook
+### C) Classroom / Lab
 
-- [**Aug2026 -- Day 4 -- AI Agents.ipynb**](https://colab.research.google.com/drive/112DSm11HmI3j-Ousy5XHJ-vXQUvWiOah)
+- [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/112DSm11HmI3j-Ousy5XHJ-vXQUvWiOah)
   
   
 ### D) Outcome

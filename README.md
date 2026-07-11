@@ -1,5 +1,5 @@
 
-<img width="1393" height="777" alt="NAIROlab August Holiday Prog Strath School" src="https://github.com/user-attachments/assets/dd6f1d22-0973-472d-9dcf-511da6e72561" />
+<img width="1393" height="777" alt="NAIROlab co ke" src="https://github.com/user-attachments/assets/c5e01e8f-8b5c-4f06-bd6f-45238e118b83" />
 
 # Welcome to the "AI App Builders" Program!
 

@@ -1,7 +1,8 @@
+<div align="center">
+<h1> Welcome to the "AI App Builders" Program!</h1>
 
 <img width="1393" height="777" alt="NAIROlab co ke" src="https://github.com/user-attachments/assets/c5e01e8f-8b5c-4f06-bd6f-45238e118b83" />
-
-# Welcome to the "AI App Builders" Program!
+</div>
 
 ## About This Course
 
